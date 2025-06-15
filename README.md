@@ -112,5 +112,7 @@ Accuracy: 96%
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=120&section=footer"/>
 </p>
+
+
