@@ -1,8 +1,8 @@
 # Hi, I'm Priya Darshini 👋  
 💻 Software Engineer | Frontend (Vue.js) + Backend (Laravel)  
-🤖 Exploring Generative AI, RAG & Agentic Systems  
+🤖 Generative AI Enthusiast (RAG | LLM | Agentic Systems)  
 
-🚀 Building scalable web apps and intelligent AI-driven systems
+🚀 Building scalable web apps and intelligent AI-driven systems  
 
 ---
 
@@ -11,7 +11,7 @@
 - 👩‍💻 Software Engineer with 2 years of experience  
 - ⚡ Specialized in Vue.js + Laravel full-stack development  
 - 🔗 Strong in REST API integration & scalable UI systems  
-- 🧠 Currently focused on Generative AI & LLM applications  
+- 🧠 Currently building GenAI applications using RAG & LLMs  
 - 🏗 Experience with event-driven architectures (nodes & edges)  
 
 ---
@@ -29,8 +29,9 @@ Laravel | Spring Boot | REST APIs | Git | Vite | Postman
 
 ### 🤖 AI / GenAI
 RAG (Retrieval-Augmented Generation)  
-LangChain (Basics)  
+LangChain  
 LLM Integration (Llama / GPT)  
+ChromaDB  
 n8n Workflow Automation  
 
 ---
@@ -50,6 +51,21 @@ n8n Workflow Automation
 
 ## 🚀 Featured Projects
 
+### 🧠 Enterprise RAG-based AI Assistant (RBAC Chatbot) ⭐  
+🔗 https://github.com/priya9787/rag-rbac-chatbot  
+
+- Built an AI-powered enterprise chatbot using private organizational data  
+- Implemented **RAG pipeline** using LangChain for contextual responses  
+- Designed document ingestion system (chunking, embeddings, vector DB - ChromaDB)  
+- Developed **Role-Based Access Control (RBAC)** for secure data access  
+- Added guardrails for **PII protection & out-of-scope query handling**  
+- Integrated LLMs (Llama / GPT via Groq/OpenAI)  
+- Focused on real-world enterprise use case  
+
+**Tech:** Python, LangChain, RAG, ChromaDB, LLMs, RBAC  
+
+---
+
 ### 🤖 Reddit Job AI Bot  
 🔗 https://github.com/priya9787/reddit-job-ai  
 
@@ -60,18 +76,6 @@ n8n Workflow Automation
 - Integrated Ollama for local LLM inference  
 
 **Tech:** Python, LangChain, RAG, n8n, Ollama  
-
----
-
-### 🧠 Enterprise RAG-based AI Assistant (Ongoing)
-
-- AI chatbot for internal organizational knowledge  
-- Implementing RAG with LangChain for accurate responses  
-- Document pipeline: chunking, embeddings, vector DB (ChromaDB)  
-- Role-based access control (RBAC) for secure data access  
-- PII protection & guardrails for safe AI usage  
-
-**Tech:** Python, LangChain, ChromaDB, LLM (Llama/GPT), Groq/OpenAI  
 
 ---
 
@@ -119,4 +123,4 @@ n8n Workflow Automation
 
 ## ⚡ Fun Fact
 
-I love combining **frontend creativity + AI intelligence** to build real-world impactful products 🚀
+I enjoy combining **frontend engineering + AI systems** to build impactful real-world products 🚀
