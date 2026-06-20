@@ -1,126 +1,219 @@
-# Hi, I'm Priya Darshini 👋  
-💻 Software Engineer | Frontend (Vue.js) + Backend (Laravel)  
-🤖 Generative AI Enthusiast (RAG | LLM | Agentic Systems)  
+<h1 align="center">Hi 👋, I'm Priya Darshini</h1>
 
-🚀 Building scalable web apps and intelligent AI-driven systems  
+<h3 align="center">
+Building AI Systems That Solve Real Business Problems
+</h3>
 
----
-
-## 🌟 About Me
-
-- 👩‍💻 Software Engineer with 2 years of experience  
-- ⚡ Specialized in Vue.js + Laravel full-stack development  
-- 🔗 Strong in REST API integration & scalable UI systems  
-- 🧠 Currently building GenAI applications using RAG & LLMs  
-- 🏗 Experience with event-driven architectures (nodes & edges)  
+<p align="center">
+Software Engineer → GenAI Engineer
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## Who Am I?
 
-### 💻 Languages
-JavaScript | Python | SQL | PHP  
+I am a Software Engineer with 2+ years of industry experience and a strong focus on building production-ready AI applications.
 
-### 🌐 Frontend
-Vue.js | React.js | Vuex | HTML5 | CSS3 | Responsive Design  
+My work combines traditional software engineering with modern Generative AI systems including Retrieval-Augmented Generation (RAG), Agentic Workflows, Vector Search, Multi-Agent Orchestration, and LLM-powered applications.
 
-### 🛠 Backend & Tools
-Laravel | Spring Boot | REST APIs | Git | Vite | Postman  
-
-### 🤖 AI / GenAI
-RAG (Retrieval-Augmented Generation)  
-LangChain  
-LLM Integration (Llama / GPT)  
-ChromaDB  
-n8n Workflow Automation  
+Rather than experimenting with AI demos, I enjoy building complete systems that solve real-world problems — from document intelligence platforms to automated AI agents.
 
 ---
 
-## 💼 Experience
+## What I Build
 
-### 🏢 Software Engineer @ Finmkt  
-📅 Jan 2024 – Present | Hyderabad  
+🧠 Enterprise RAG Platforms
 
-- Built responsive web applications using Vue.js & React  
-- Integrated frontend with REST APIs for scalable systems  
-- Designed workflow-driven architecture using nodes & edges  
-- Implemented authentication (JWT, Sanctum, reCAPTCHA)  
-- Improved performance using lazy loading & state management  
+🤖 Multi-Agent AI Systems
 
----
+📄 Document Intelligence Applications
 
-## 🚀 Featured Projects
+🔍 Semantic Search Engines
 
-### 🧠 Enterprise RAG-based AI Assistant (RBAC Chatbot) ⭐  
-🔗 https://github.com/priya9787/rag-rbac-chatbot  
+⚡ Real-Time Streaming AI Applications
 
-- Built an AI-powered enterprise chatbot using private organizational data  
-- Implemented **RAG pipeline** using LangChain for contextual responses  
-- Designed document ingestion system (chunking, embeddings, vector DB - ChromaDB)  
-- Developed **Role-Based Access Control (RBAC)** for secure data access  
-- Added guardrails for **PII protection & out-of-scope query handling**  
-- Integrated LLMs (Llama / GPT via Groq/OpenAI)  
-- Focused on real-world enterprise use case  
+🔐 Role-Based AI Knowledge Systems
 
-**Tech:** Python, LangChain, RAG, ChromaDB, LLMs, RBAC  
+📊 AI Monitoring & Observability Dashboards
+
+🚀 Production FastAPI Services
 
 ---
 
-### 🤖 Reddit Job AI Bot  
-🔗 https://github.com/priya9787/reddit-job-ai  
+## Featured Projects
 
-- Extracts freelance job posts from Reddit  
-- Generates AI-based responses using LLMs  
-- Built RAG pipeline using LangChain  
-- Automated workflows using n8n  
-- Integrated Ollama for local LLM inference  
+### NexusAI Platform
 
-**Tech:** Python, LangChain, RAG, n8n, Ollama  
+Enterprise-grade conversational AI platform built for secure document intelligence.
 
----
+**Highlights**
 
-### 🌾 Krishak Direct Marketing Platform  
+- Multi-Agent Architecture using LangGraph
+- Enterprise Document Q&A
+- Role-Based Access Control (RBAC)
+- Source Citation Tracking
+- Agent Trace Visualization
+- Real-Time Response Streaming
+- Monitoring Dashboard
+- Qdrant Vector Search
+- Redis Caching
 
-- Platform connecting farmers with buyers  
-- Focused on real-time interaction and accessibility  
-- Integrated AI concepts for smarter recommendations  
+**Tech Stack**
 
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL  
+FastAPI • LangGraph • LangChain • Qdrant • Sentence Transformers • Groq • Llama 3.3 • Vue.js • Docker • Redis
 
----
-
-### 🧠 Malaria Detection using Deep Learning  
-
-- Built deep learning model using VGG19 + ResNet  
-- Achieved 96% accuracy  
-- IEEE publication project  
-
-**Tech:** Python, Deep Learning  
+🔗 Repository:
+https://github.com/priya9787/nexus-ai-platform
 
 ---
 
-## 🎓 Education
+### RAG RBAC Chatbot
 
-🎓 B.Tech in Artificial Intelligence & Data Science  
-📍 Seshadri Rao Gudlavalleru Engineering College  
-📊 CGPA: 9.38/10  
+Secure enterprise knowledge assistant with department-level document access control.
 
----
+**Highlights**
 
-## 📈 GitHub Stats
+- Retrieval-Augmented Generation
+- Metadata Filtering
+- Department Isolation
+- Semantic Search
+- PDF Knowledge Base
+- Vector Search
 
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priya9787&show_icons=true&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/priya-darshini-ramachandran  
-- 📧 Email: priyaramachandran1602@gmail.com  
-- 💻 GitHub: https://github.com/priya9787  
+🔗 Repository:
+https://github.com/priya9787/rag-rbac-chatbot
 
 ---
 
-## ⚡ Fun Fact
+### Reddit Freelance AI Agent
 
-I enjoy combining **frontend engineering + AI systems** to build impactful real-world products 🚀
+Autonomous job discovery and proposal generation system.
+
+**Highlights**
+
+- Reddit Job Discovery
+- AI Proposal Generation
+- Local LLM Inference
+- Automated Workflow Orchestration
+- Telegram Delivery Pipeline
+
+🔗 Repository:
+https://github.com/priya9787/reddit-job-ai
+
+---
+
+## AI Engineering Stack
+
+### LLM Engineering
+
+- GPT-4
+- Llama 3
+- Mistral
+- Groq
+- Ollama
+
+### Agentic AI
+
+- LangGraph
+- LangChain Agents
+- ReAct Agents
+- Multi-Agent Workflows
+- Tool Calling
+- State Management
+
+### Retrieval-Augmented Generation
+
+- Advanced RAG
+- Hybrid Retrieval
+- Semantic Search
+- Metadata Filtering
+- Cross-Encoder Reranking
+- Context Optimization
+
+### Vector Databases
+
+- Qdrant
+- ChromaDB
+- FAISS
+
+### NLP & Embeddings
+
+- Sentence Transformers
+- BERT
+- Hugging Face Transformers
+- Text Embeddings
+- Semantic Chunking
+
+### Evaluation & Observability
+
+- LangSmith
+- RAGAS
+- Faithfulness Evaluation
+- Relevancy Scoring
+- Token Usage Tracking
+- Latency Monitoring
+
+### Fine-Tuning & Optimization
+
+- LoRA
+- QLoRA
+- PEFT
+- Quantization
+- Transformer Architectures
+
+### Backend
+
+- Python
+- FastAPI
+- Flask
+- Laravel
+- REST APIs
+
+### Frontend
+
+- Vue.js
+- React.js
+- TypeScript
+- Tailwind CSS
+
+### Infrastructure
+
+- Docker
+- Docker Compose
+- Azure
+- Redis
+- PostgreSQL
+- MongoDB
+
+---
+
+## Engineering Principles
+
+✔ Build before consuming tutorials
+
+✔ Focus on production systems over toy projects
+
+✔ Measure quality through evaluation
+
+✔ Design for scalability
+
+✔ Keep AI systems explainable
+
+✔ Security and access control matter
+
+---
+
+## Connect With Me
+
+📧 Email: priyaramachandran1602@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/priya-darshini-ramachandran
+
+💻 GitHub:
+https://github.com/priya9787
+
+---
+
+> "AI is not just prompting models.
+> It's engineering reliable systems around them."
