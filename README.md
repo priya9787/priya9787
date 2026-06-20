@@ -5,16 +5,16 @@ Building AI Systems That Solve Real Business Problems
 </h3>
 
 <p align="center">
-Software Engineer → GenAI Engineer
+GenAI Engineer | RAG Systems | Agentic AI | LLM Applications
 </p>
 
 ---
 
 ## Who Am I?
 
-I am a Software Engineer with 2+ years of industry experience and a strong focus on building production-ready AI applications.
+I am an AI Engineer focused on building production-ready Generative AI applications using LangGraph, LangChain, FastAPI, Qdrant, and modern LLMs.
 
-My work combines traditional software engineering with modern Generative AI systems including Retrieval-Augmented Generation (RAG), Agentic Workflows, Vector Search, Multi-Agent Orchestration, and LLM-powered applications.
+My work spans enterprise RAG systems, multi-agent workflows, document intelligence, semantic search, and real-time conversational AI platforms.
 
 Rather than experimenting with AI demos, I enjoy building complete systems that solve real-world problems — from document intelligence platforms to automated AI agents.
 
